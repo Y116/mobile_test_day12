@@ -1,0 +1,52 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1583289195738" stop="1583289196040">
+  <description>
+Allure报告测试demo
+</description>
+  <name>test_demo</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1583289195738" status="passed" stop="1583289195839">
+      <name>Test.test_func01</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14292-MainThread"/>
+        <label name="host" value="WIN-UDA4BQ0H4KH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1583289195789" status="passed" stop="1583289195839">
+          <name>测试方法01</name>
+          <title>测试方法01</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1583289195916" status="passed" stop="1583289195957">
+      <name>Test.test_func02</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14292-MainThread"/>
+        <label name="host" value="WIN-UDA4BQ0H4KH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1583289196021" status="passed" stop="1583289196040">
+      <name>Test.test_func03</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14292-MainThread"/>
+        <label name="host" value="WIN-UDA4BQ0H4KH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
